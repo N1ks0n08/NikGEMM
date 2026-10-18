@@ -1,0 +1,11 @@
+# compiled output
+bin/
+build/
+*.o
+
+# Nsight Compute / Nsight Systems profiles (large, regenerable)
+*.ncu-rep
+*.nsys-rep
+
+# editor
+.vscode/
